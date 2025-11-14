@@ -3,3 +3,7 @@ h1{
     font-family:serif;
     background-color: lightgray;
 }
+.img_favicon{
+    width: 32px;
+    height: 32px;
+}
